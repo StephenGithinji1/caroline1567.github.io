@@ -263,7 +263,7 @@ a:hover, a:active, a:focus {
   margin-bottom: 45px;
   padding: 120px 0 0 0;
   overflow: hidden;
-  background: linear-gradient(rgba(252,79,193,0.95), rgba(205,16,107,0.95)), url(../img/hero-bg.jpg);
+  background: linear-gradient(rgba(252,79,193,0.95), rgba(69,10,38,0.95)), url(../img/hero-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
